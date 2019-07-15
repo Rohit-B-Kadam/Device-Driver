@@ -1,0 +1,1 @@
+cmd_/home/rohit/ProjectTemp/CharacterDeviceDriver/MyFirstDeviceDriver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rohit/ProjectTemp/CharacterDeviceDriver/MyFirstDeviceDriver.ko /home/rohit/ProjectTemp/CharacterDeviceDriver/MyFirstDeviceDriver.o /home/rohit/ProjectTemp/CharacterDeviceDriver/MyFirstDeviceDriver.mod.o ;  true
