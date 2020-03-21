@@ -1,6 +1,6 @@
 # Device Driver
 
-Implementing Character Device Driver
+Implementing Character Device Driver.
 
 ---
 
